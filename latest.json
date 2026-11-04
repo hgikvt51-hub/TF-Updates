@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "2.4",
+  "versionCode": 7,
+  "versionName": "2.5",
   "downloadUrl": "https://raw.githubusercontent.com/hgikvt51-hub/TF-Updates/main/TF.apk",
-  "sha256": "bb28bf3548940a3f006c326ebd92048e15e74ed6886c8fd09d7ea901752afd17",
-  "notes": "Чёрный фон и белый интерфейс TF. Обновлённая навигация по расписанию и плавные анимации переходов."
+  "sha256": "1ed1b9f1d89b3dbf134644c732788fe44d6bb65e3765d96581fbefb92176491d",
+  "notes": "Быстрое обновление расписания сразу при запуске и каждые 30 секунд. В настройках добавлены PIN-код из четырёх цифр, смена и удаление PIN."
 }
