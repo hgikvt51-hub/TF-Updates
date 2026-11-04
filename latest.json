@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "2.6",
+  "versionCode": 9,
+  "versionName": "2.7",
   "downloadUrl": "https://raw.githubusercontent.com/hgikvt51-hub/TF-Updates/main/TF.apk",
-  "sha256": "17bd9a38ccc589c7dbc0a720e8de6b2bd26797665973e5a497ddfa9efc6d2e9e",
-  "notes": "У PIN-кода появилась экранная цифровая клавиатура: нажимай цифры, удаляй последнюю или очищай ввод. Без системной клавиатуры."
+  "sha256": "43e392562fc369d37bec35ec48aaf893973bbe514c53f063686309ad72579e4d",
+  "notes": "Если установлен PIN, расписание скрыто за отдельным чёрным экраном блокировки и показывается только после верного кода."
 }
