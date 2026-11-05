@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "2.7",
+  "versionCode": 12,
+  "versionName": "2.10",
   "downloadUrl": "https://raw.githubusercontent.com/hgikvt51-hub/TF-Updates/main/TF.apk",
-  "sha256": "43e392562fc369d37bec35ec48aaf893973bbe514c53f063686309ad72579e4d",
-  "notes": "Если установлен PIN, расписание скрыто за отдельным чёрным экраном блокировки и показывается только после верного кода."
+  "sha256": "e24df04f759566bd384c378dc350fb811d7f6efb19e9753e1d4a2ef622bed440",
+  "notes": "Вернул рабочее расписание и удалил функцию PIN. Добавлен режим «Вся неделя»: занятия сгруппированы по дням с датами и количеством пар."
 }
